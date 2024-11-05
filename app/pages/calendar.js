@@ -1,6 +1,7 @@
 import Image from "next/image";
 import clock from "@/public/img/clock.svg";
 import Script from "next/script";
+import Link from "next/link";
 export default function calendar() {
   return (
     <section id="calendar" className="calendar-section">
@@ -34,9 +35,9 @@ export default function calendar() {
                     Speaker: Benedikt Safiyulin
                   </p>
                 </div>
-                <a className="btn-reg" href="/">
+                <Link className="btn-reg" href="/">
                   Register Now
-                </a>
+                </Link>
               </div>
               <div className="calendar-item mt-30">
                 <div className="calendar-item--top">
@@ -55,9 +56,9 @@ export default function calendar() {
                   </p>
                   <p className="calendar-text--light">Speaker: Beth Burphy</p>
                 </div>
-                <a className="btn-reg" href="/">
+                <Link className="btn-reg" href="/">
                   Register Now
-                </a>
+                </Link>
               </div>
               <div className="calendar-item">
                 <div className="calendar-item--top">
@@ -78,9 +79,9 @@ export default function calendar() {
                     Speaker: Deveeprasad Achatya
                   </p>
                 </div>
-                <a className="btn-reg" href="/">
+                <Link className="btn-reg" href="/">
                   Register Now
-                </a>
+                </Link>
               </div>
               <div className="calendar-item mt-30">
                 <div className="calendar-item--top">
@@ -99,9 +100,9 @@ export default function calendar() {
                   </p>
                   <p className="calendar-text--light">Speaker: Dontae Little</p>
                 </div>
-                <a className="btn-reg" href="/">
+                <Link className="btn-reg" href="/">
                   Register Now
-                </a>
+                </Link>
               </div>
 
               <div className="calendar-item mt--30">
@@ -121,9 +122,9 @@ export default function calendar() {
                   </p>
                   <p className="calendar-text--light">Speaker: chloe Modibro</p>
                 </div>
-                <a className="btn-reg" href="/">
+                <Link className="btn-reg" href="/">
                   Register Now
-                </a>
+                </Link>
               </div>
               <div className="calendar-item">
                 <div className="calendar-item--top">
@@ -142,9 +143,9 @@ export default function calendar() {
                   </p>
                   <p className="calendar-text--light">Speaker: Jioke Ugorji</p>
                 </div>
-                <a className="btn-reg" href="/">
+                <Link className="btn-reg" href="/">
                   Register Now
-                </a>
+                </Link>
               </div>
               <div className="calendar-item mt--30">
                 <div className="calendar-item--top">
@@ -164,9 +165,9 @@ export default function calendar() {
                   </p>
                   <p className="calendar-text--light">Speaker: ren Xue</p>
                 </div>
-                <a className="btn-reg" href="/">
+                <Link className="btn-reg" href="/">
                   Register Now
-                </a>
+                </Link>
               </div>
               <div className="calendar-item">
                 <div className="calendar-item--top">
@@ -186,9 +187,9 @@ export default function calendar() {
                   </p>
                   <p className="calendar-text--light">Speaker: ren Xue</p>
                 </div>
-                <a className="btn-reg" href="/">
+                <Link className="btn-reg" href="/">
                   Register Now
-                </a>
+                </Link>
               </div>
             </div>
           </div>
@@ -214,9 +215,9 @@ export default function calendar() {
                     Speaker: Benedikt Safiyulin
                   </p>
                 </div>
-                <a className="btn-reg" href="/">
+                <Link className="btn-reg" href="/">
                   Register Now
-                </a>
+                </Link>
               </div>
               <div className="calendar-item mt-30">
                 <div className="calendar-item--top">
@@ -235,9 +236,9 @@ export default function calendar() {
                   </p>
                   <p className="calendar-text--light">Speaker: Beth Burphy</p>
                 </div>
-                <a className="btn-reg" href="/">
+                <Link className="btn-reg" href="/">
                   Register Now
-                </a>
+                </Link>
               </div>
               <div className="calendar-item">
                 <div className="calendar-item--top">
@@ -258,9 +259,9 @@ export default function calendar() {
                     Speaker: Deveeprasad Achatya
                   </p>
                 </div>
-                <a className="btn-reg" href="/">
+                <Link className="btn-reg" href="/">
                   Register Now
-                </a>
+                </Link>
               </div>
               <div className="calendar-item mt-30">
                 <div className="calendar-item--top">
@@ -279,9 +280,9 @@ export default function calendar() {
                   </p>
                   <p className="calendar-text--light">Speaker: Dontae Little</p>
                 </div>
-                <a className="btn-reg" href="/">
+                <Link className="btn-reg" href="/">
                   Register Now
-                </a>
+                </Link>
               </div>
 
               <div className="calendar-item mt--30">
@@ -301,9 +302,9 @@ export default function calendar() {
                   </p>
                   <p className="calendar-text--light">Speaker: chloe Modibro</p>
                 </div>
-                <a className="btn-reg" href="/">
+                <Link className="btn-reg" href="/">
                   Register Now
-                </a>
+                </Link>
               </div>
               <div className="calendar-item">
                 <div className="calendar-item--top">
@@ -322,9 +323,9 @@ export default function calendar() {
                   </p>
                   <p className="calendar-text--light">Speaker: Jioke Ugorji</p>
                 </div>
-                <a className="btn-reg" href="/">
+                <Link className="btn-reg" href="/">
                   Register Now
-                </a>
+                </Link>
               </div>
               <div className="calendar-item mt--30">
                 <div className="calendar-item--top">
@@ -344,9 +345,9 @@ export default function calendar() {
                   </p>
                   <p className="calendar-text--light">Speaker: ren Xue</p>
                 </div>
-                <a className="btn-reg" href="/">
+                <Link className="btn-reg" href="/">
                   Register Now
-                </a>
+                </Link>
               </div>
               <div className="calendar-item">
                 <div className="calendar-item--top">
@@ -366,9 +367,9 @@ export default function calendar() {
                   </p>
                   <p className="calendar-text--light">Speaker: ren Xue</p>
                 </div>
-                <a className="btn-reg" href="/">
+                <Link className="btn-reg" href="/">
                   Register Now
-                </a>
+                </Link>
               </div>
             </div>
           </div>
